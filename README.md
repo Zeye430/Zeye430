@@ -19,18 +19,37 @@ I enjoy applying data-driven thinking to business, operational, and investment p
 
 ## Core Skills
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=py,sklearn,fastapi,postgres,docker,git,github&theme=dark"
-    alt="Python, scikit-learn, FastAPI, PostgreSQL, Docker, Git, and GitHub"
-  />
-</p>
+### AI & Agents
 
-**AI & Agents:** LLM applications · Tool use · MCP · RAG · Agent orchestration · Evaluation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-000000?style=flat-square&logo=openai&logoColor=white)
+![MCP Protocol](https://img.shields.io/badge/MCP%20Protocol-6D28D9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
 
-**Machine Learning:** XGBoost · LightGBM · Optuna · MLflow · Feature engineering
+### Machine Learning
 
-**Data & Systems:** SQL · pandas · PySpark · Airflow · Apache Iceberg · Delta Lake · Streamlit
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-4158D0?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+### Data
+
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-4A90E2?style=flat-square)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square)
+
+### Systems & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Featured Work
 
